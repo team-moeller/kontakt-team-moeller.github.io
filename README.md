@@ -1,2 +1,1 @@
-# kontakt-team-moeller.github.io
-Kontaktdaten von Team-Moeller.de
+Dieses Repository stellt die subdomain **kontak.team-moeller.de** bereit.
